@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>VOVE-ID</groupId>
-  <artifactId>facetec-sdk</artifactId>
+  <artifactId>face-tec</artifactId>
   <version>9.6.73</version>
   <packaging>aar</packaging>
 </project>
