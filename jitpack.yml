@@ -1,3 +1,3 @@
 install:
   - FILE="-Dfile=facetec-sdk-9.6.73.aar"
-  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfySdk -Dversion=9.6.73 -Dpackaging=aar -DpomFile=facetec-sdk-9.6.73.pom
+  - mvn install:install-file $FILE -DgroupId=VOVE-ID -DartifactId=vove-id-android -Dversion=9.6.73 -Dpackaging=aar -DpomFile=facetec-sdk-9.6.73.pom
